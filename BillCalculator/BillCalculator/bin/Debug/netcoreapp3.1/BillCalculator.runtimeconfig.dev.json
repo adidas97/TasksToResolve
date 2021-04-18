@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\adida\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\adida\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\adida\source\repos\BillCalculator\BillCalculator\bin\Debug\netcoreapp3.1\BillCalculator.exe
+C:\Users\adida\source\repos\BillCalculator\BillCalculator\bin\Debug\netcoreapp3.1\BillCalculator.deps.json
+C:\Users\adida\source\repos\BillCalculator\BillCalculator\bin\Debug\netcoreapp3.1\BillCalculator.runtimeconfig.json
+C:\Users\adida\source\repos\BillCalculator\BillCalculator\bin\Debug\netcoreapp3.1\BillCalculator.runtimeconfig.dev.json
+C:\Users\adida\source\repos\BillCalculator\BillCalculator\bin\Debug\netcoreapp3.1\BillCalculator.dll
+C:\Users\adida\source\repos\BillCalculator\BillCalculator\bin\Debug\netcoreapp3.1\BillCalculator.pdb
+C:\Users\adida\source\repos\BillCalculator\BillCalculator\obj\Debug\netcoreapp3.1\BillCalculator.csprojAssemblyReference.cache
+C:\Users\adida\source\repos\BillCalculator\BillCalculator\obj\Debug\netcoreapp3.1\BillCalculator.AssemblyInfoInputs.cache
+C:\Users\adida\source\repos\BillCalculator\BillCalculator\obj\Debug\netcoreapp3.1\BillCalculator.AssemblyInfo.cs
+C:\Users\adida\source\repos\BillCalculator\BillCalculator\obj\Debug\netcoreapp3.1\BillCalculator.csproj.CoreCompileInputs.cache
+C:\Users\adida\source\repos\BillCalculator\BillCalculator\obj\Debug\netcoreapp3.1\BillCalculator.dll
+C:\Users\adida\source\repos\BillCalculator\BillCalculator\obj\Debug\netcoreapp3.1\BillCalculator.pdb
+C:\Users\adida\source\repos\BillCalculator\BillCalculator\obj\Debug\netcoreapp3.1\BillCalculator.genruntimeconfig.cache
